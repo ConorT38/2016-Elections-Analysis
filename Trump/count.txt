@@ -1,0 +1,1 @@
+{'wall': 12938, 'fuck': 11969, 'sexist': 344, 'drumpf': 902, 'evil': 6066, 'molest': 176, 'hate': 10145, 'fraud': 5746, 'xenophob': 251, 'racist': 2973, 'notmypresident': 5693, 'misogynist': 285, 'homophob': 160, 'asshole': 2584}
