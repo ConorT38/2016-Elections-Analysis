@@ -9,10 +9,10 @@ def get_api(cfg):
 def main():
 
   cfg = {
-    "consumer_key"        : "r1h3UrXLgce8tji7diSY6tP3y",
-    "consumer_secret"     : "YOX7K8zXlx2zF31rWoLnRLL77q8T39PIY1KeXJai7tNxq3vYHm",
-    "access_token"        : "706436613321134080-5tgRztYyUNXjZPuSZQNay8M5GqWlqbG",
-    "access_token_secret" : "QExTnHjop1hPp69UpgSIbvRWwhvjmlkMzBrrsGbOjrGoa"
+    "consumer_key"        : "xxx",
+    "consumer_secret"     : "xxx",
+    "access_token"        : "xxx",
+    "access_token_secret" : "xxx"
     }
   api = get_api(cfg)
   json_ret = tweepy.Cursor(api.search, q="@HillaryClinton",count="100").items(100)
